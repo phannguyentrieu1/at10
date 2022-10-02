@@ -16,7 +16,7 @@
     </script>
 
     <!-- This site is optimized with the Yoast SEO plugin v14.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>NHO XANH - AT10 FOOD</title>
+    <title>{{ $food->name }} - AT10 FOOD</title>
     <meta name="robots" content="index, follow" />
     <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -512,13 +512,13 @@
                 <div class="wrapper">
                     <div class="inner text-center">
                         <div class="breadcrumb-big">
-                            <h2>NHO XANH</h2>
+                            <h2>{{ $food->name }}</h2>
                         </div>
                         <div class="breadcrumb-small">
                             <p id="breadcrumbs"><span><span><a href="http://at10.chonweb.vn/">Trang chủ</a> » <span><a
                                                 href="http://at10.chonweb.vn/san-pham/">Sản phẩm</a> » <span
-                                                class="breadcrumb_last" aria-current="page">NHO
-                                                XANH</span></span></span></span></p>
+                                                class="breadcrumb_last"
+                                                aria-current="page">{{ $food->name }}</span></span></span></span></p>
                         </div>
                     </div>
                 </div>
