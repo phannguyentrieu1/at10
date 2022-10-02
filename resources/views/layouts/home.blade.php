@@ -387,7 +387,7 @@
                                 <div id="header-logo" class="grid__item large--two-twelfths">
                                     <div class="hd-logo text-left">
                                         <h1>
-                                            <a href="https://at10.mediawz.com">
+                                            <a href="/">
                                                 <img src="https://at10.mediawz.com/wp-content/uploads/2021/06/AT10-1.png"
                                                     alt="AT10 FOOD">
                                             </a>
@@ -401,7 +401,7 @@
                                         <ul id="menu-menu-chinh-1" class="no-bullets">
                                             <li
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-19 current-menu-ancestor">
-                                                <a href="https://at10.mediawz.com/">Trang chủ</a>
+                                                <a href="/">Trang chủ</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130">
